@@ -1,0 +1,146 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+}
+
+/* top section css code */
+.top-section{
+    width: 100%;
+    height: 700px;
+    background-image: url(images/header-bg.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.warp{
+    width: 80%;
+    margin: 0 auto;
+}
+.my-name-img-div{
+    width: 100%;
+    padding-top: 100px;
+}
+.div-half-text{
+    width: 50%;
+    
+    padding: 150px;
+    float: left;
+}
+.div-half-img{
+    width: 50%;
+    padding: 50px 50px 0px 50px;
+    float: left;
+}
+.top-sec-hello-im{
+    font-size: 35px;
+    padding-bottom: 5px;
+}
+.top-sec-name{
+    font-size: 60px;
+    color: rgb(218, 39, 137);
+    padding-bottom: 40px;
+}
+p{
+    color: rgb(112, 105, 105);
+    padding-bottom: 40px;
+    text-align: justify;
+}
+.button-text{
+    text-decoration: none;
+    background-color:rgb(218, 39, 137);
+    color: white;
+    padding: 15px 30px;
+    border-radius: 10px;
+    margin-top: 10px;
+}
+.images{
+    width: 500px;
+    height: 550px;
+    box-sizing: border-box;
+    padding-bottom: 60px;
+}
+
+/* biography section css code */
+.biography-section{
+    width: 100%;
+    height: 720px;
+    background-image: url(images/biography-bg.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+/* my latest work section */
+.latest-work-section{
+    width: 100%;
+    height: 500px;
+    background-image: url(images/latest-work-bg.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.latest-text{
+    font-size: 40px;
+    text-align: center;
+    padding : 60px;
+}
+.work-list-div{
+    width: 100%; 
+}
+.list-img{
+    width: 33.33% ;
+    float: left; 
+}
+.work-img{
+    width: 100%;
+    padding: 10px;
+    box-sizing: border-box;
+}
+/* footer part css code */
+footer{
+    width: 100%;
+    background-image: url(images/footer-bg.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 700px;
+}
+.testimonial{
+    width: 35%;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.testimonial h3{
+    font-size: 30px;
+}
+.testimonial h4{
+    color: rgb(75, 72, 72);
+}
+.testimonial p {
+    padding: 30px;
+    color: black;
+    font-size: 18px;
+    text-align: center;
+}
+ .information{
+    width: 50%;
+    margin: 0 auto;
+    text-align: center;
+    font-weight: 800;
+    color: white; 
+     height: 150px;  
+    background-color: rgb(218, 39, 137);
+    border-radius: 10px;
+    
+    
+}
+.inf-inner h4{
+    padding-top: 50px;
+    font-size: 18px;
+}
+.inf-inner h3{
+ 
+    font-size: 30px;
+}
+.copyright p{
+    padding-top: 150px;
+    text-align: center;
+    font-size: 12px;
+}
